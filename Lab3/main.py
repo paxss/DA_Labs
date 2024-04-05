@@ -176,12 +176,6 @@ class WebApp(server.App):
         "label": 'Year Range (2000 2010)',
         "value": 'none',
         "action_id": 'update_data'
-    },
-    {
-        "type": "simple",
-        "label": 'Submit',
-        "key": 'submit_button',
-        "id": "update_data"
     }
     ]
 
